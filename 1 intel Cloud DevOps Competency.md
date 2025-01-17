@@ -1,3 +1,5 @@
+[<img align="right" alt="GitHub Foundations exam logo" width="300" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/intel-cloud-devops.png">](https://www.credly.com/badges/e715c31c-d92a-4920-ae9c-ab40e4ed660a) 
+
 # Cloud DevOps Competency `intel`
 
 ### **Chapter 1: The Culture of DevOps**
@@ -670,3 +672,7 @@ DevSecOps integrates security practices into the DevOps pipeline, ensuring that 
    - [Overcoming DevSecOps Challenges](https://www.sonatype.com/devsecops)
 
 ---
+
+![Cloud_DevOps_Badge20250117-28-t92abu_page-0001](https://github.com/user-attachments/assets/9f059de9-5aa0-4b2c-b415-9c99fcddb594)
+
+
