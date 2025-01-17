@@ -2,6 +2,9 @@
 
 # Cloud DevOps Competency `intel`
 
+This badge is demonstrated advanced knowledge, understanding, and proficiency in understanding DevOps and the cultural changes required to adopt it, especially as it pertains to the cloud, tools used in a DevOps environment, including source control systems, containers, artifact registries, and the continuous integration and continuous delivery (CI/CD) pipeline, as well as how to start using DevOps with the three primary CSPs (Amazon, Google, and Azure).
+
+
 ### **Chapter 1: The Culture of DevOps**
 **Deltas**:  
 This chapter emphasizes the cultural shift DevOps promotes: improved collaboration, automation, and the breakdown of silos between development and operations teams for faster and more efficient software delivery.
