@@ -19,6 +19,9 @@
 <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Introduction%20to%20FOCUS.png" width="100px" height="100px" /></a>-->
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
  <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png" width="110px" height="110px" /></a>
+ </br>
+  </br>
+   [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
 </div>
 
 </br>
